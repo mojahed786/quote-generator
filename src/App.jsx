@@ -33,8 +33,7 @@ export default function App() {
   };
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gradient-to-r from-cyan-300 to-blue-200 px-4">
-      <div className="bg-white w-full max-w-2xl rounded-3xl shadow-xl p-10 text-center">
+<div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-[#7ee8e8] via-[#9ed9f5] to-[#b8c6ff] px-4">      <div className="bg-white w-full max-w-2xl rounded-3xl shadow-xl p-10 text-center">
 
         <h1 className="text-4xl font-bold text-gray-800 mb-10">
           Inspirational Quote Generator
