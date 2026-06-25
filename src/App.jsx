@@ -22,6 +22,18 @@ const quotes = [
     text: "The future depends on what you do today.",
     author: "Mahatma Gandhi",
   },
+  {
+    text: "Do the best you can until you know better. Then when you know better, do better.",
+    author: "Maya Angelou",
+  },
+  {
+    text: "It is okay to be at a place of struggle. Struggle is just another word for growth.",
+    author: "Idowu Koyenikan",
+  },
+  {
+    text: "Even the darkest night will end and the sun will rise.",
+    author: "Victor Hugo",
+  },
 ];
 
 export default function App() {
